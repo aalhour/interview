@@ -51,6 +51,7 @@
 	* [Original [RU]](https://e-maxx.ru/algo/)
 * [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 * [it-ebooks.info](http://it-ebooks.info/)
+* S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani -[Algorithms](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
 
 
 ### Coding practice
@@ -82,6 +83,7 @@
 
 * [Top 10 Algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 * [Hard interview questions that have a short recursive solution](https://www.quora.com/What-are-some-of-the-hardest-programming-questions-asked-during-an-interview-from-Google-Facebook-Microsoft-Amazon-Quora-Linkedin-Apple-Yahoo-etc-that-can-be-coded-in-a-few-lines-with-a-recursive-solution)
+* [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/)
 
 ## Guides
 
@@ -115,6 +117,9 @@
 * [Interview Cake ($$$)](https://www.interviewcake.com/) [[review](https://www.quora.com/How-helpful-was-the-paid-program-from-Interview-Cake-in-your-interview-preparation)]
 * [How to Ace the Software Engineering Interview ($$)](https://interviewsteps.com/products/how-to-ace-the-software-engineering-interview)
 * [Grokking the System Design Interview ($$)](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [Algorithms: Design and Analysis](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+* [Algorithms and Data Structures - Part 1](https://www.pluralsight.com/courses/ads-part1)
+* [Algorithms and Data Structures - Part 2](https://www.pluralsight.com/courses/ads2)
 
 ### Misc
 
@@ -146,6 +151,8 @@
 * [Refdash](https://refdash.com/)
 * [Gainlo](http://www.gainlo.co/)
 * [Candidacy.io](https://www.candidacy.io/)
+* [Skilled](https://www.skilledinc.com/)
+* [Gainlo](http://www.gainlo.co/#!/)
 
 ### Q&A
 * [How to prepare for my Google/Facebook interview if I have 6 months left?](http://www.quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
@@ -161,10 +168,14 @@
 * [Codela](https://www.codela.net/)
 * [TestDome](https://www.testdome.com/)
 * [FreeCodeCamp](https://www.freecodecamp.com/) *"Learn to code and help nonprofits"*
+* [Dynamic Programming Practice Problems](https://people.cs.clemson.edu/~bcdean/dp_practice/)
+* [Codility Lessons](https://app.codility.com/programmers/lessons/1-iterations/)
+* [Introduction to Theoretical Computer Science](https://introtcs.org/)
 
 ### Videos
 
 * [How to: Work at Google – Candidate Coaching Session for Technical Interviewing [45:45]](https://www.youtube.com/watch?v=oWbUtlUhwa8)
+
 * Gayle McDowell – [Cracking the Coding Interview [1:14:24]](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 * Gayle McDowell - [Cracking the Coding Interview (examples) [9:05]](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 * [Google Recruiters Share Technical Interview Tips [31:06]](https://www.youtube.com/watch?v=qc1owf2-220)
@@ -205,6 +216,7 @@
 ### Node
 
 * [Node.js Best Practices and Tips](https://www.toptal.com/nodejs/tips-and-practices)
+* [Node.js Interview - Guide](https://elemefe.github.io/node-interview/#/sections/en-us/?id=guide)
 
 ### PHP
 
@@ -215,6 +227,8 @@
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns)
 * [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
+* Book: [Elements of Programming Interviews in Python](http://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
+
 
 ### React
 
@@ -261,12 +275,18 @@
 ### System design
 
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+  * This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-* Raph Levien – [Rope Science](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
 * Jeff Atwood – [How Good an Estimator Are You?](http://blog.codinghorror.com/how-good-an-estimator-are-you/)
 * [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
+
+Advanced but great:
+
+- Brendan Burns - [Designing Distributed Systems](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC) [[pdf](http://www.istrsjournal.org/wp-content/uploads/2018/06/Designing_Distributed_Systems.pdf)]
+- Raph Levien – [Rope Science](http://abishov.com/xi-editor/docs/rope_science_00.html)
 
 ## Similar repos
 
